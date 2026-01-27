@@ -96,6 +96,11 @@ name1 = input("enter your name :")
 age = int(input("enter age"))
 marks = float(input("enter marks"))
 
+
+# If want to print two variables on one line so type
+print("aditya kadam", end="")
+print("zeal college")
+
 print("welcome",name1)
 print("age",age)
 print("marks",marks)
