@@ -129,6 +129,71 @@ print(s2.name)
 # Methods --
 # 
 # methods are the function that belongs to the objects.
- 
+class Student1:              # class
+    college_name= "zeal"     #class attribute
+     
+    def __init__(self,name):     #constructor
+     self.name = name            #instance attributes
+    def bye(self):
+     print("bye friend,",self.name)
+
+s3 = Student1("karan")
+s3.bye()  
+
+# _______________________________________________________________________________________________________
+# _______________________________________________________________________________________________________
+# Static Methods --
+
+# methods  that don't uses the self parameter (works at class level)
+
+class Student2:
+    
+    @staticmethod           # --Decorators
+    def college():  
+        print("ZCOER")
+
+Student2.college()       
+
+# Decorators allow us to wrap another function in order to extend the behaviour of 
+# the wrapped function, without permanently modifying it
 
 
+
+# ________________________________________________________________________________________________________
+# ________________________________________________________________________________________________________
+# ----------------IMPORTANT CONCEPTS----------------
+
+# --------1 .Abstraction --------------
+
+# Hiding theimplementation details of a class and showing the essential 
+# feactures to the user.
+# meaning of this is like in  aa class you had hidden unnecessary thing and shown 
+# essential only ,in this way you can understand this defination.
+# see this example--
+
+class car:
+    def __init__(self):
+       self.acc= False
+       self.brk = False
+       self.clutch = False
+
+    def start(self) :
+          self.acc= True
+          self.clutch= True
+          print("car starting..")
+
+car1 = car()
+car1.start()  
+
+# so here you can see self.acc= True
+          # self.clutch= True
+# this was not used in front it was hidden in function and not shown so in this way
+# it shows necessary and rest is hidden.
+
+
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# ------------------2. Encapsulation---------------------
+
+# Define:-- Wrapping data and function into a single unit(object).
+# means see whenever we make a class we so attribution,has methods,function everything
+# in that its said to be a capsulation.
