@@ -17,5 +17,7 @@ They help in understanding what the output of the code will look like.
 ### 3rd code output (GIF)
 <p align="center">
   <img width="400"
-       src="https://github.com/user-attachments/assets/YOUR_GIF_LINK_HERE.gif" />
+       src="https://github.com/user-attachments/assets/![python text  animation](https://github.com/user-attachments/assets/37a1e884-5510-48ef-95f4-ca00102b42e5)
+.gif" />
+
 </p>
