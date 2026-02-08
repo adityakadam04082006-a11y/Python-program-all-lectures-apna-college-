@@ -14,3 +14,7 @@ They help in understanding what the output of the code will look like.
   <img width="350" alt="Screenshot from 2026-02-05 23-13-25"
        src="https://github.com/user-attachments/assets/17c45201-8b39-43a3-8206-37357844673d" />
 </p>
+### 3rd code video
+<p align="center">
+  [Screencast from 02-08-2026 08:12:48 PM.webm](https://github.com/user-attachments/assets/3e5956cb-7ed1-40c8-a35f-4ae6eb44120e)
+
