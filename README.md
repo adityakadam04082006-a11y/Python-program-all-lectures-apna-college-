@@ -19,7 +19,6 @@ They help in understanding what the output of the code will look like.
 ### 3rd code output (GIF)
 <p align="center">
   <img width="400"
-       src= ![python text animation](https://github.com/user-attachments/assets/4f767f82-4a36-48ce-930d-0785ec761291)
-
+       src="https://github.com/user-attachments/assets/4f767f82-4a36-48ce-93d0-0785ec761291.gif"
        alt="python text animation" />
 </p>
