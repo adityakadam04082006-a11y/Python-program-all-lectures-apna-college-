@@ -15,7 +15,7 @@ They help in understanding what the output of the code will look like.
        src="https://github.com/user-attachments/assets/17c45201-8b39-43a3-8206-37357844673d" />
 
 </p>
-### 3rd code output 
+### 3rd code image 
 <p align="center">
   <img width="400"
        alt="python text animation"
