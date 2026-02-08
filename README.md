@@ -14,10 +14,11 @@ They help in understanding what the output of the code will look like.
   <img width="350" alt="Screenshot from 2026-02-05 23-13-25"
        src="https://github.com/user-attachments/assets/17c45201-8b39-43a3-8206-37357844673d" />
 </p>
+
+
 ### 3rd code output (GIF)
 <p align="center">
   <img width="400"
-       src="https://github.com/user-attachments/assets/![python text  animation](https://github.com/user-attachments/assets/37a1e884-5510-48ef-95f4-ca00102b42e5)
-.gif" />
-
+       alt="python text animation"
+       src="https://github.com/user-attachments/assets/37a1e884-5510-48ef-95f4-ca00102b42e5.gif" />
 </p>
