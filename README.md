@@ -21,3 +21,7 @@ They help in understanding what the output of the code will look like.
        alt="python text animation"
        src="https://github.com/user-attachments/assets/63e43ac3-d66c-4d1d-82d8-9a882a150fb5" />
 </p>
+### 4th code image
+<p align="center">
+  <img width="400" height="250" alt="Screenshot from 2026-02-25 22-45-24" src="https://github.com/user-attachments/assets/1af05a51-e635-4ded-a006-cc71ca5d92df" />
+
